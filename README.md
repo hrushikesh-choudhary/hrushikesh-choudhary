@@ -1,6 +1,6 @@
 ### Hello World! I'm Hrushikesh 👋
 
-- :computer: Software Engineering Intern at Gnosis Freight.
+- :computer: Software Engineer @ Doxel.
 - :mortar_board: MS CS student at University at Buffalo.
 - :sparkles: Full stack developer with expertise in React, FastAPI, Laravel, ELK stack, AWS and much more!
 - :mushroom: I’m currently exploring the world of NextJS, Typescript, Vercel and Pulumi.
